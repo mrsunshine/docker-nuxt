@@ -2,7 +2,7 @@
 
 This image is based on node alpine. It build's and run's a NUXT application in production mode.
 
-### Usage
+## Usage
 
  In your NUXT project add the following to your `Dockerfile`:
 
@@ -10,7 +10,7 @@ This image is based on node alpine. It build's and run's a NUXT application in p
 FROM mrsunshine/nuxt
 ```
 
-### Image on Docker Hub
+## Image on Docker Hub
 
 https://hub.docker.com/r/mrsunshine/nuxt/
 
